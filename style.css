@@ -4,7 +4,10 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
+    border: none; 
 }
+
+
 
 .logo {
     width: 50px;
